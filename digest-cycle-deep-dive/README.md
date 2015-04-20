@@ -25,18 +25,16 @@ Software companies. Ori also manages a technical blog at http://blogs.microsoft.
 Session Details
 ===============
 
-### Deep dive into Angular's new digest cycle
+### Ng-Ninja
 
-Understand the newly implemented digest cycle of Angular 2.0
+Ng-Ninja is a JavaScript framework that wraps Angular facilities and offers a more object oriented approach
 
 ### Session Abstract
 
-Since the very first day of Angular, the Angular team was focusing on improving the digest cycle mechanism. 
-The digest cycle is probably one of the most interesting part of AngularJS and it is responsible for keeping the DOM updated with respect to the data model.
-Angular 2.0 significantly changes the implementation of the digest cycle
-Through out this session you will get the opportunity to understand the mechanism of the improved digest cycle. 
-We will look at Angular source code and analyze the improvements.
-Most of the performance improvements that were added to Angular's digest cycle may be applied to your source code too !!!
+Ng-Ninja is a JavaScript framework that wraps Angular facilities and offers a more object oriented approach to handle 
+single page application development. Ng-Ninja offers widget tree, easy communication between different controllers and 
+better integration with Typescript. Most desktop application developers find it easier to start working with Ng-Ninja
+than with Angular.
 
 ### Session Meta Data
 
